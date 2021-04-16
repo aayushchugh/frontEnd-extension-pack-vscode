@@ -1,14 +1,19 @@
 {
 	"name": "frontend-extension-pack",
 	"displayName": "frontend extension pack",
-	"description": "",
+	"description": "An extension pack for frontend developer full of all necessary extensions",
 	"version": "0.0.1",
 	"engines": {
 		"vscode": "^1.55.0"
 	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/Ayush-Chugh-2006/frontEnd-extension-pack-vscode"
+	},
 	"categories": [
 		"Extension Packs"
 	],
+	"icon": "logo.png",
 	"keywords": [
 		"extension",
 		"extension pack",
