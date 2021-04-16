@@ -1,8 +1,9 @@
 {
 	"name": "frontend-extension-pack",
-	"displayName": "frontend extension pack",
+	"displayName": "Frontend Extension Pack",
 	"description": "An extension pack for frontend developer full of all necessary extensions",
 	"version": "0.0.1",
+	"publisher": "AyushChugh",
 	"engines": {
 		"vscode": "^1.55.0"
 	},
