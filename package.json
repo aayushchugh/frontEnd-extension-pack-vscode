@@ -1,0 +1,36 @@
+{
+	"name": "frontend-extension-pack",
+	"displayName": "frontend extension pack",
+	"description": "",
+	"version": "0.0.1",
+	"engines": {
+		"vscode": "^1.55.0"
+	},
+	"categories": [
+		"Extension Packs"
+	],
+	"keywords": [
+		"extension",
+		"extension pack",
+		"frontend",
+		"frontend extension pack"
+	],
+	"extensionPack": [
+		"ritwickdey.liveserver",
+		"ms-vsliveshare.vsliveshare",
+		"ayushchugh.sky-at-night",
+		"esbenp.prettier-vscode",
+		"mgmcdermott.vscode-language-babel",
+		"formulahendry.auto-close-tag",
+		"formulahendry.auto-rename-tag",
+		"streetsidesoftware.code-spell-checker",
+		"naumovs.color-highlight",
+		"mhutchie.git-graph",
+		"eamodio.gitlens",
+		"vincaslt.highlight-matching-tag",
+		"ecmel.vscode-html-css",
+		"zignd.html-css-class-completion",
+		"xabikos.javascriptsnippets",
+		"wayou.vscode-todo-highlight"
+	]
+}
