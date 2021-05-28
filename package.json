@@ -22,21 +22,24 @@
 		"frontend extension pack"
 	],
 	"extensionPack": [
-		"ritwickdey.liveserver",
-		"ms-vsliveshare.vsliveshare",
-		"ayushchugh.sky-at-night",
-		"esbenp.prettier-vscode",
 		"mgmcdermott.vscode-language-babel",
 		"formulahendry.auto-close-tag",
 		"formulahendry.auto-rename-tag",
-		"streetsidesoftware.code-spell-checker",
 		"naumovs.color-highlight",
-		"mhutchie.git-graph",
-		"eamodio.gitlens",
 		"vincaslt.highlight-matching-tag",
 		"ecmel.vscode-html-css",
 		"zignd.html-css-class-completion",
 		"xabikos.javascriptsnippets",
-		"wayou.vscode-todo-highlight"
-	]
+		"mulu-github.jsflowchart",
+		"TabNine.tabnine-vscode",
+		"mhutchie.git-graph",
+		"eamodio.gitlens",
+		"ritwickdey.liveserver",
+		"streetsidesoftware.code-spell-checker",
+		"ayushchugh.sky-at-night",
+		"esbenp.prettier-vscode"
+	],
+	"dependencies": {
+		"vsce": "^1.88.0"
+	}
 }

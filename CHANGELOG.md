@@ -1,9 +1,43 @@
-# Change Log
+# 1.0.0
 
-All notable changes to the "frontend-extension-pack" extension pack will be documented in this file.
+## Added
 
-Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
+- Jsflowchart
+- Tabnine
 
-## [Unreleased]
+## Removed
 
-- Initial release
+- Babel Javascript
+- Todo Highlight
+- Live share
+
+# 0.0.1
+
+### Front End
+
+- Live server
+- Live share
+- Auto Close Tag
+- Auto Rename tag
+- Color Highlight
+- Highlight Matching Tag
+- Html Css Support
+- Intellisense for css class names in HTML
+- Java script ES6 Code snippets
+
+### Git
+
+- Git Graph
+- Git Lense
+
+### Other
+
+- Todo Highlight
+- Prettier Code Formatter
+- Sky At Night theme
+- Babel Javascript
+- Code Spell checker
+
+
+
+
